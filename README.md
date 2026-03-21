@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Doto&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&color=ffffff&lines=Yo+Wassup!!;Ranit+Nandi+here!!;I'm+a+Developer;" />
+</h1>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);!&center=true&size=27)](https://git.io/typing-svg)
