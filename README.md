@@ -27,11 +27,11 @@
 
 - 👋 Hi, I'm **Ranit**!
 - 🎓 B.Tech in Computer Science @ IIT (ISM) Dhanbad
+- 💼 SDE Intern at Bharat Electronics Limited (BEL)
 - 💻 Full Stack Developer 
 - 🧠 Strong in Data Structures & Algorithms (Competitive Programming)
 - ⚡ Built scalable apps with real-time features (chat apps, AI integrations)
 - 🔍 Interested in Backend Systems, System Design & AI-powered products
-- 🌏 Open to Software Engineering Internships (Global opportunities)
 
 </div>
 
